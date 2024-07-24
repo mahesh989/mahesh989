@@ -1,5 +1,5 @@
 # Hi there 👋
-### Welcome to My GitHub Profile! 👋🏾
+### Welcome to My GitHub Profile!
 
 I'm **Mahesh**. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
